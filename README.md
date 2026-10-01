@@ -4,23 +4,44 @@ Una ruta para ordenar la empresa, proteger la marca y verificar los requisitos d
 
 **Actualizado:** 1 de octubre de 2026. **Estado:** planificación; registros y autorizaciones de ZONTE pendientes de verificación. Esta guía no afirma que falten permisos ni que se hayan presentado trámites.
 
+## Cómo leer las referencias
+
+- **Norma:** enlace a una ley, reglamento o norma técnica. Se identifica el artículo cuando se ha comprobado; un enlace general no acredita que se haya revisado todo el texto vigente.
+- **Trámite oficial:** instrucciones de la autoridad; confirmar requisitos y tasas antes de presentar.
+- **Ejemplo oficial:** resolución sobre otro establecimiento; no determina la categoría de ZONTE.
+- **Recomendación:** propuesta de organización de esta guía, sin carácter de obligación legal.
+- **Dato de ZONTE por comprobar:** información anunciada por el negocio, sin validación registral.
+
+**Fecha de esta revisión de referencias:** 1 de octubre de 2026. Las fuentes que no pudieron leerse se indican al final. No se certifica una revisión integral de vigencia normativa.
+
+## Siglas utilizadas
+
+| Sigla | Significado |
+|---|---|
+| RUC | Registro Único de Contribuyentes |
+| IPRESS | Institución Prestadora de Servicios de Salud |
+| RENIPRESS | Registro Nacional de Instituciones Prestadoras de Servicios de Salud |
+| ITSE | Inspección Técnica de Seguridad en Edificaciones |
+| REMYPE | Registro de la Micro y Pequeña Empresa |
+| DIRESA | Dirección Regional de Salud |
+
 ## ¿Clínica, centro o consultorio odontológico?
 
 Sí hay una diferencia que debemos aclarar, pero el nombre publicitario por sí solo no define la categoría sanitaria.
 
 | Concepto | Qué significa para ZONTE |
 |---|---|
-| Marca | El signo que identifica los servicios, por ejemplo ZONTE; se protege ante Indecopi. |
-| Titular y forma empresarial | Persona natural o jurídica que opera el negocio y asume obligaciones. “Clínica” y “consultorio” no son formas societarias como EIRL o SAC. |
-| Nombre comercial | Cómo se presenta el establecimiento al público. No demuestra su autorización o capacidad sanitaria. |
-| Categoría sanitaria | Clasificación otorgada por la autoridad competente según infraestructura, equipamiento, personal y capacidad de atención. |
+| Marca | El signo que identifica los servicios, por ejemplo ZONTE; se protege ante Indecopi. [Trámite oficial](https://www.gob.pe/institucion/indecopi/pages/333-registrar-la-marca-de-producto-o-servicio-de-tu-negocio-en-indecopi). |
+| Titular y forma empresarial | Persona natural o jurídica que opera el negocio y asume obligaciones. “Clínica” y “consultorio” no son formas societarias como EIRL o SAC. [Referencia oficial: tipos de empresa](https://www.gob.pe/254-tipos-de-empresa-razon-social-o-denominacion). |
+| Nombre comercial | Signo que identifica una actividad económica, empresa o establecimiento; no equivale a la denominación social ni acredita autorización sanitaria. [Trámite oficial: nombre comercial](https://www.gob.pe/334-registrar-una-marca-registrar-nombre-comercial-de-tu-negocio-en-indecopi). |
+| Categoría sanitaria | Clasificación otorgada por la autoridad competente según infraestructura, equipamiento, personal y capacidad de atención. [Norma: NTS 021, aprobada por RM 546-2011/MINSA](https://www.gob.pe/institucion/minsa/normas-legales/243402-546-2011-minsa). |
 | Sede | Cada local físico cuya situación sanitaria y municipal debe verificarse individualmente. |
 
 Existen resoluciones oficiales que categorizan consultorios odontológicos como **I-1**. También hay una resolución que asigna I-1 a un establecimiento cuya razón social incluye “Clínica Dental”. Esto demuestra que esas palabras no bastan para deducir la categoría. **No asignamos I-1 ni otra categoría a ZONTE:** DIRESA Junín debe confirmar la que corresponde a su cartera real de servicios.
 
-Fuentes: [ejemplo de consultorio I-1](https://www.gob.pe/institucion/dirislimacentro/normas-legales/7196977-925-2025-dg-diris-lc), [ejemplo de razón social con “clínica” y categoría I-1](https://www.gob.pe/institucion/dirislimacentro/normas-legales/8000440-1748-2025-dg-diris-lc), [NTS 021 y RM 546-2011/MINSA](https://www.gob.pe/institucion/minsa/normas-legales/243402-546-2011-minsa).
+**Ejemplos oficiales y norma de referencia:** [ejemplo de consultorio I-1](https://www.gob.pe/institucion/dirislimacentro/normas-legales/7196977-925-2025-dg-diris-lc), [ejemplo de razón social con “clínica” y categoría I-1](https://www.gob.pe/institucion/dirislimacentro/normas-legales/8000440-1748-2025-dg-diris-lc), [NTS 021 y RM 546-2011/MINSA](https://www.gob.pe/institucion/minsa/normas-legales/243402-546-2011-minsa).
 
-**Criterio de trabajo:** mantener ZONTE como marca y verificar la denominación sanitaria antes de decidir cómo unificar “clínica”, “centro” y “consultorio” en sus canales. No es necesario cambiar nombres o usuarios de redes antes de esa comprobación.
+**Recomendación de esta guía:** mantener ZONTE como marca y verificar la denominación sanitaria antes de decidir cómo unificar “clínica”, “centro” y “consultorio” en sus canales. No es necesario cambiar nombres o usuarios de redes antes de esa comprobación.
 
 ## Lo que sabemos y lo que falta comprobar
 
@@ -44,7 +65,7 @@ No fue posible leer sus publicaciones directamente. Se identificaron los enlaces
 
 ## Plan para Joice
 
-Primero revisar lo que ya existe. **No constituir otra empresa ni iniciar registros duplicados sin verificar la situación actual.**
+**Recomendación de esta guía:** primero revisar lo que ya existe. **No constituir otra empresa ni iniciar registros duplicados sin verificar la situación actual.**
 
 | Orden | Acción | Resultado esperado | Quién participa |
 |---|---|---|---|
@@ -82,7 +103,7 @@ No se ha consultado un registro individual de ZONTE en RENIPRESS. **Pendiente no
 
 ## Marca ZONTE
 
-La **clase 44** incluye servicios odontológicos; es la clase inicial a evaluar para la actividad descrita. Definir con Indecopi el listado preciso de servicios y buscar signos similares antes de pagar. No se ha comprobado todavía la disponibilidad de ZONTE ni un registro existente.
+La **clase 44** incluye servicios odontológicos ([Clasificación oficial de Niza 2026, clase 44 — OMPI](https://nclpub.wipo.int/enfr/pdf-download.pdf?dateInForce=20260101&lang=en&tab=class_headings)); es la clase inicial a evaluar para la actividad descrita. Definir con Indecopi el listado preciso de servicios y buscar signos similares antes de pagar. No se ha comprobado todavía la disponibilidad de ZONTE ni un registro existente.
 
 - Confirmar si la titular será Joice o una persona jurídica ya constituida.
 - Evaluar denominación ZONTE y, por separado si corresponde, nombre con logo.
@@ -95,14 +116,14 @@ Fuente: [Clasificación de Niza, edición 2026 — OMPI](https://nclpub.wipo.int
 
 Estas son tareas de planificación; el alcance y requisitos definitivos deben confirmarse con las autoridades y profesionales responsables.
 
-- **Personal:** comprobar colegiatura, habilitación y registro de las especialidades anunciadas.
-- **Servicios:** verificar que la cartera, equipamiento y personal de cada sede respaldan lo que se anuncia.
+- **Recomendación — personal:** comprobar colegiatura, habilitación y registro de las especialidades anunciadas.
+- **Recomendación — servicios:** verificar que la cartera, equipamiento y personal de cada sede respaldan lo que se anuncia.
 - **Rayos X, si existen:** revisar los requisitos aplicables de IPEN según el equipo e instalación; no asumir un permiso único para todas las tecnologías. [Ejemplo oficial de registro de instalación dental](https://www.gob.pe/institucion/ipen/normas-legales/3246789-1792-2022-ipen-otan).
-- **Bioseguridad:** revisar esterilización, trazabilidad, manejo de residuos y procedimientos con la autoridad sanitaria.
+- **Recomendación — bioseguridad:** revisar esterilización, trazabilidad, manejo de residuos y procedimientos con la autoridad sanitaria.
 - **Historia clínica:** revisar formatos, consentimientos clínicos, archivo y acceso conforme a [NTS 139 y RM 214-2018/MINSA](https://www.gob.pe/institucion/minsa/normas-legales/187487-214-2018-minsa) y sus modificaciones.
-- **Privacidad:** inventariar dónde se guardan datos de pacientes, quién accede y cómo se gestionan derechos, imágenes, menores y proveedores. Evaluar obligaciones según Ley 29733 y [DS 016-2024-JUS](https://www.gob.pe/institucion/smv/normas-legales/6426760-016-2024-jus). Revisión jurídica necesaria para decisiones sobre bases legales, consentimientos y transferencias internacionales.
-- **Reclamos:** confirmar con SUSALUD el régimen y procedimiento aplicable a la IPRESS; no asumir que basta un formulario comercial genérico.
-- **Fotografías y publicidad:** comprobar autorizaciones y exactitud de las afirmaciones antes de publicar imágenes de pacientes o resultados.
+- **Privacidad:** inventariar dónde se guardan datos de pacientes, quién accede y cómo se gestionan derechos, imágenes, menores y proveedores. Evaluar obligaciones según [Ley 29733, texto original — Congreso](https://www.leyes.congreso.gob.pe/Documentos/Leyes/29733.pdf) (arts. 2, 13, 14, 18 y 28 como puntos de consulta sobre datos sensibles, tratamiento, excepciones, información y obligaciones; contrastar con sus modificaciones) y [DS 016-2024-JUS](https://www.gob.pe/institucion/smv/normas-legales/6426760-016-2024-jus). Revisión jurídica necesaria para decisiones sobre bases legales, consentimientos y transferencias internacionales.
+- **Reclamos — norma de referencia:** el [DS 002-2019-SA — SUSALUD](https://www.gob.pe/institucion/susalud/normas-legales/853356-002-2019-sa-ds) aprueba el reglamento de gestión de reclamos y denuncias para IPRESS públicas, privadas o mixtas. Confirmar con SUSALUD su aplicación y procedimiento vigente; no asumir que basta un formulario comercial genérico.
+- **Recomendación — fotografías y publicidad:** comprobar autorizaciones y exactitud de las afirmaciones antes de publicar imágenes de pacientes o resultados. Para datos e imágenes identificables, consultar la Ley 29733 y su reglamento enlazados arriba; el uso clínico y el publicitario deben analizarse por separado.
 
 ## Preguntas para cerrar el plan
 
@@ -132,17 +153,21 @@ Los pasos siguientes son una referencia. Aplicarlos solo después de revisar los
 
 La responsabilidad limitada no elimina responsabilidades personales por garantías u otros supuestos legales. La elección debe considerar la actividad, socios y operación tributaria. Si interviene un extranjero o alguien desde Brasil, verificar con la notaría los requisitos de identificación, representación y poderes antes de elegir la vía de firma.
 
+**Referencia oficial para la tabla:** [Tipos de empresa — SUNAT](https://www.gob.pe/254-tipos-de-empresa-razon-social-o-denominacion) y [Modalidades — PRODUCE](https://www.gob.pe/institucion/produce/noticias/883902-eirl-srl-sac-sa-y-sacs-que-tipo-de-empresa-le-conviene-a-tu-negocio). **Recomendación:** elegir con contador y asesoría jurídica según propietarios, riesgos y operación.
+
 ## 2. Constituir e inscribir
 
-- [ ] Buscar denominaciones y reservar la elegida en SUNARP; la reserva es recomendable.
+- [ ] Buscar denominaciones y reservar la elegida en SUNARP; la reserva es recomendable. [Trámite oficial: reserva](https://www.gob.pe/271-busqueda-y-reserva-de-nombre).
 - [ ] Definir domicilio, actividad, capital, propietarios, administración y representación.
 - [ ] Preparar acto constitutivo y estatutos.
-- [ ] Para EIRL, SAC o SRL, coordinar escritura pública y presentación notarial mediante SID-SUNARP.
+- [ ] Para EIRL, SAC o SRL, coordinar escritura pública y presentación notarial mediante SID-SUNARP. [Trámite oficial: constitución](https://www.gob.pe/10580).
 - [ ] Verificar inscripción y poderes del representante.
-- [ ] Activar el RUC asignado, obtener Clave SOL y elegir régimen tributario aplicable.
+- [ ] Activar el RUC asignado, obtener Clave SOL y elegir régimen tributario aplicable. [Referencia oficial: inscripción RUC — SUNAT](https://emprender.sunat.gob.pe/ruc/mi-ruc/inscripcion-ruc).
 - [ ] Preparar emisión de comprobantes y obligaciones contables con un contador.
 
 La SACS ofrece una vía sin intervención notarial, con requisitos específicos que deben comprobarse antes de adoptarla. El programa Tu Empresa ofrece asesoría gratuita; los gastos notariales y registrales pueden seguir siendo necesarios.
+
+**Referencia de orientación:** [PRODUCE: SACS y programa Tu Empresa](https://www.gob.pe/institucion/produce/noticias/883902-eirl-srl-sac-sa-y-sacs-que-tipo-de-empresa-le-conviene-a-tu-negocio). Confirmar la vía concreta con SUNARP y la notaría.
 
 ## 3. Registrar la marca
 
@@ -157,25 +182,27 @@ La SACS ofrece una vía sin intervención notarial, con requisitos específicos 
 
 La búsqueda previa no garantiza aprobación. La protección se analiza respecto del signo, productos o servicios y territorio. Una persona natural también puede solicitar la marca; no es obligatorio constituir primero una empresa.
 
+**Trámites oficiales para esta lista:** [Registro de marca — Indecopi](https://www.gob.pe/institucion/indecopi/pages/333-registrar-la-marca-de-producto-o-servicio-de-tu-negocio-en-indecopi) y [Asesoría virtual](https://www.gob.pe/17215). La búsqueda y el análisis de viabilidad no son una concesión de marca.
+
 ## 4. Autorizar el establecimiento
 
 - [ ] Consultar compatibilidad de uso y licencia ante la municipalidad del distrito.
 - [ ] Verificar clasificación de riesgo e inspección ITSE.
 - [ ] Comprobar permisos sectoriales según la actividad; un establecimiento de salud necesita una revisión específica adicional.
 
-En riesgo bajo o medio la ITSE puede ser posterior; en riesgo alto o muy alto debe seguirse la vía que exige inspección previa. Los costos y requisitos dependen de la municipalidad y del establecimiento.
+En riesgo bajo o medio la ITSE puede ser posterior; en riesgo alto o muy alto debe seguirse la vía que exige inspección previa. Los costos y requisitos dependen de la municipalidad y del establecimiento. **Trámites oficiales:** [riesgo bajo o medio](https://www.gob.pe/20844) y [riesgo alto o muy alto](https://www.gob.pe/20866); seleccionar la municipalidad y comprobar la ruta aplicable a cada sede.
 
 ## Presupuesto inicial
 
 | Concepto | Referencia consultada | Observación |
 |---|---:|---|
-| Solicitud de marca, una clase | S/ 534,90 | Confirmar al presentar. No garantiza concesión. |
-| Marca con descuento mype | S/ 401,20 | RUC activo y habido y REMYPE vigente, según campaña oficial. |
+| Solicitud de marca, una clase | S/ 534,90 | Confirmar al presentar. No garantiza concesión. [Fuente oficial: Indecopi](https://www.gob.pe/institucion/indecopi/campa%C3%B1as/6164-protege-tu-sueno-registra-tu-marca). |
+| Marca con descuento mype | S/ 401,20 | RUC activo y habido y REMYPE vigente, según [campaña oficial de Indecopi](https://www.gob.pe/institucion/indecopi/campa%C3%B1as/6164-protege-tu-sueno-registra-tu-marca). Consulta: 01/10/2026. |
 | Notaría y registro de empresa | Por cotizar | Según modalidad y capital. |
 | Licencia y seguridad del local | Por cotizar | Según distrito y riesgo. |
 | Contabilidad y permisos sectoriales | Por cotizar | Según operación y actividad. |
 
-No hay un costo total definido hasta completar el formulario y obtener cotizaciones.
+No hay un costo total definido hasta completar la ficha por consultorio y obtener cotizaciones.
 
 ## Fuentes oficiales
 
@@ -190,3 +217,22 @@ No hay un costo total definido hasta completar el formulario y obtener cotizacio
 9. Licencia para riesgo bajo o medio (seleccionar municipalidad): https://www.gob.pe/20844
 10. Licencia para riesgo alto o muy alto (seleccionar municipalidad): https://www.gob.pe/20866
 
+
+## Alcance y comprobación de las fuentes
+
+| Información en la guía | Tipo de respaldo | Alcance de la revisión del 01/10/2026 |
+|---|---|---|
+| Marca, nombre comercial y tasas | Trámites oficiales de Indecopi enlazados en sus apartados | Información recuperada de fuentes oficiales; confirmar condiciones al presentar. |
+| Reclamos en IPRESS | DS 002-2019-SA, ficha oficial de SUSALUD | Se comprobó el objeto y ámbito de la norma; no se revisó artículo por artículo. |
+| Datos personales | Ley 29733 y DS 016-2024-JUS | Texto original de la ley disponible; comprobar modificaciones y aplicación con asesoría jurídica. |
+| Modalidades empresariales y constitución | SUNAT, SUNARP y PRODUCE | Enlaces oficiales de referencia; las páginas gob.pe/254 y gob.pe/10580 bloquearon la lectura automática en esta revisión. |
+| Licencia e ITSE | Trámites municipales de gob.pe | gob.pe/20844 y gob.pe/20866 bloquearon la lectura automática; comprobar requisitos con Pilcomayo. |
+| Categoría sanitaria | NTS 021 y resoluciones enlazadas | Las resoluciones son ejemplos ajenos a ZONTE; no acreditan su categoría. |
+| Junín y Pilcomayo | Noticias institucionales y portal municipal enlazados | Orientan la autoridad de consulta; no sustituyen el TUPA, tasas o expediente vigente. |
+| Servicios odontológicos en clase 44 | Clasificación de Niza 2026 — OMPI | Referencia de clasificación; no prueba disponibilidad de la marca ZONTE. |
+| Rayos X | Resolución IPEN enlazada | Ejemplo de otra instalación; confirmar normativa aplicable al equipo real. |
+| Historia clínica | NTS 139 / RM 214-2018-MINSA enlazadas | Norma de referencia; revisar texto y modificaciones antes de definir procedimientos. |
+| Direcciones, servicios y redes de ZONTE | Código del negocio y enlaces sociales | Datos anunciados, pendientes de comprobación documental; no son fuentes oficiales del Estado. |
+| Orden del plan y ficha de trabajo | Recomendaciones de esta guía | Propuestas prácticas; no constituyen una secuencia legal obligatoria. |
+
+**Decisiones que necesitan revisión jurídica:** forma empresarial, bases legales para datos de pacientes, consentimientos y transferencias internacionales. Las referencias permiten comprobar el origen de la información; no certifican los registros individuales de ZONTE.
