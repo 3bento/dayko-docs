@@ -9,7 +9,7 @@ revisions: true
 
 Aquí se reúnen las mejoras identificadas en el contenido y su estado.
 
-**Fecha de revisión:** 1 de octubre de 2026. **Estado:** referencias añadidas y cuatro mejoras aplicadas; las restantes siguen pendientes. Esta revisión no acredita ni cuestiona los permisos o registros de ZONTE.
+**Fecha de revisión:** 1 de octubre de 2026. **Estado:** las siete mejoras de contenido están aplicadas. La comprobación documental de ZONTE y las fuentes pendientes conservan su propio estado. Esta revisión no acredita ni cuestiona los permisos o registros de ZONTE.
 
 ## Seguimiento de mejoras
 
@@ -18,14 +18,18 @@ Aquí se reúnen las mejoras identificadas en el contenido y su estado.
 | Alta | Nombre comercial | Explicar su diferencia con la marca y la denominación social, y su tratamiento ante Indecopi. | Aplicada · 01/10/2026 |
 | Alta | Reclamos en salud | Añadir la referencia al DS 002-2019-SA y explicar la ruta de consulta con SUSALUD. | Aplicada · 01/10/2026 |
 | Media | Presupuesto | Sustituir “completar el formulario” por “completar la ficha por consultorio y obtener cotizaciones”. | Aplicada · 01/10/2026 |
-| Media | Siglas | Explicar RUC, RENIPRESS, IPRESS, ITSE y REMYPE al primer uso. | Aplicada · 01/10/2026 |
-| Media | Advertencias repetidas | Concentrar las limitaciones en una nota inicial y conservar los estados en la ficha. | Pendiente |
-| Media | Detalles técnicos | Llevar las notas sobre GitHub y las limitaciones de investigación al apartado de fuentes. | Pendiente |
-| Media | Plan para Joice | Añadir el documento o evidencia que permite cerrar cada tarea y una primera acción concreta. | Pendiente |
+| Media | Siglas | Añadir un glosario de RUC, RENIPRESS, IPRESS, ITSE y REMYPE antes del contenido. | Aplicada · 01/10/2026 |
+| Media | Advertencias repetidas | Concentrar las limitaciones en una nota inicial y conservar los estados en la ficha. | Aplicada · 01/10/2026 |
+| Media | Detalles técnicos | Llevar las notas sobre GitHub y las limitaciones de investigación al apartado de fuentes. | Aplicada · 01/10/2026 |
+| Media | Plan para Joice | Añadir el documento o evidencia que permite cerrar cada tarea y una primera acción concreta. | Aplicada · 01/10/2026 |
 
 ## Referencias junto al contenido
 
 **Aplicada · 01/10/2026:** se añadieron enlaces junto a las afirmaciones, una leyenda de tipos de respaldo y una tabla de alcance. Las fuentes bloqueadas se identifican expresamente. No se certificó una revisión integral de vigencia normativa.
+
+## Cierre de la revisión editorial
+
+**Aplicada · 01/10/2026:** se reunieron las advertencias generales en la apertura, se trasladaron las notas de investigación al final y se completó el plan con una primera acción, documentos de cierre y estados de avance. Las evidencias del negocio siguen siendo privadas y pendientes de comprobar; este cierre se refiere a las mejoras del contenido.
 
 ## Lo que conviene conservar
 
