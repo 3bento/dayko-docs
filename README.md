@@ -2,7 +2,7 @@
 
 Una ruta para ordenar la empresa, proteger la marca y verificar los requisitos de cada consultorio.
 
-**Actualizado:** 1 de octubre de 2026. **Estado:** planificación; registros y autorizaciones de ZONTE pendientes de verificación. Esta guía no afirma que falten permisos ni que se hayan presentado trámites.
+**Actualizado:** 1 de octubre de 2026. **Estado:** guía de planificación. Los datos de ZONTE anunciados públicamente están pendientes de comprobación documental; “pendiente” no significa que falte un permiso o exista una irregularidad. Las fuentes y sus limitaciones se detallan al final. Guardar documentos e información de pacientes en un archivo privado.
 
 ## Cómo leer las referencias
 
@@ -45,37 +45,44 @@ Existen resoluciones oficiales que categorizan consultorios odontológicos como 
 
 ## Lo que sabemos y lo que falta comprobar
 
-La consulta directa de `zonte.pe` no pudo completarse. Se revisó el [código de la página en dayko-zonte](https://github.com/3bento/dayko-zonte/blob/main/public/index.html); esto describe el contenido del repositorio, sin demostrar que coincida exactamente con el sitio publicado.
+Información anunciada por ZONTE, que servirá como punto de partida para completar la ficha de cada sede.
 
-| Información anunciada en el código | Situación |
+| Información anunciada | Situación |
 |---|---|
-| Centro Odontológico ZONTE | Nombre utilizado en título y datos estructurados. |
+| Centro Odontológico ZONTE | Nombre anunciado por el negocio. |
 | San Martín: Jr. San Martín 750, Pilcomayo | Local anunciado; confirmar domicilio operativo y registros. |
 | Tacna: Av. Tacna 535, Pilcomayo | Local anunciado; confirmar domicilio operativo y registros. |
 | Pilcomayo, Huancayo, Junín | Ubicación anunciada; orienta la consulta sanitaria y municipal. |
 | Endodoncia, odontopediatría, estética, ortodoncia, prótesis, implantes y cirugía oral, entre otros | Oferta anunciada; confirmar qué se realiza efectivamente en cada local y por qué profesionales. |
 | Presentación de Joice como cirujana dentista y especialista | Comprobar habilitación vigente y especialidades en el colegio profesional; la web no sustituye esa verificación. |
 
-Redes enlazadas en el código:
+Redes identificadas:
 
 - [Instagram: @clinicaodontologicazonte](https://www.instagram.com/clinicaodontologicazonte/)
 - [Facebook: Clínica Odontológica ZONTE](https://www.facebook.com/people/Cl%C3%ADnica-Odontol%C3%B3gica-ZONTE/100076397208073/)
 
-No fue posible leer sus publicaciones directamente. Se identificaron los enlaces desde el sitio fuente, sin verificar biografías, actividad reciente ni todas las cuentas existentes.
+
 
 ## Plan para Joice
 
 **Recomendación de esta guía:** primero revisar lo que ya existe. **No constituir otra empresa ni iniciar registros duplicados sin verificar la situación actual.**
 
-| Orden | Acción | Resultado esperado | Quién participa |
+**Primera acción:** reunir con el contador los documentos que ya existen y organizar una carpeta privada para el titular del negocio y otra para cada sede. Empezar por la ficha RUC y los documentos sanitarios y municipales; anotar lo que todavía no se encuentra.
+
+La siguiente secuencia es una propuesta de trabajo, no un orden legal obligatorio. La marca y las consultas por sede pueden avanzar en paralelo cuando el titular esté definido.
+
+| Orden | Acción | Quién participa | Documento o evidencia para cerrar la tarea |
 |---|---|---|---|
-| 1 | Revisar titular actual, RUC, forma empresarial y establecimientos anexos. | Definir si se mantiene la estructura o hace falta modificarla. | Joice y contador |
-| 2 | Reunir por sede resolución sanitaria, registro RENIPRESS, licencia e ITSE existentes. | Matriz privada con estado, alcance y vencimientos. | Joice |
-| 3 | Preparar cartera real por sede y consultar categorización con DIRESA Junín. | Requisitos confirmados y ruta sanitaria para cada local. | Joice, responsable sanitario y DIRESA |
-| 4 | Consultar licencia, uso del local e ITSE con Municipalidad de Pilcomayo. | Ruta municipal según cada establecimiento. | Joice y municipalidad |
-| 5 | Verificar titular y antecedentes de marca; evaluar ZONTE en clase 44. | Decidir solicitud, signo y servicios a proteger. | Titular e Indecopi |
-| 6 | Ordenar procesos clínicos, datos, residuos y reclamos. | Procedimientos y responsables definidos. | Equipo y asesoría correspondiente |
-| 7 | Comparar web y redes con cartera autorizada y datos confirmados. | Comunicación coherente, sin atribuir categorías o especialidades no comprobadas. | Joice y Dayko |
+| 1 | Revisar titular, RUC, forma empresarial y establecimientos anexos; decidir si se mantiene o modifica la estructura. | Joice y contador | Ficha RUC consultada y, si existe persona jurídica, partida registral y representación; decisión documentada del titular. [SUNAT](https://emprender.sunat.gob.pe/ruc/mi-ruc/inscripcion-ruc). |
+| 2 | Reunir los documentos sanitarios y municipales existentes de cada sede. | Joice | Copias de resolución de categorización, consulta RENIPRESS, licencia y documento ITSE aplicable; ficha con dirección, alcance, fecha de consulta y vigencia que corresponda. [SUSALUD](https://www.gob.pe/institucion/susalud/campa%C3%B1as/95866-consulta-el-renipress). |
+| 3 | Preparar la cartera real por sede y confirmar la ruta sanitaria. | Joice, responsable sanitario y DIRESA Junín | Lista de servicios, profesionales y equipos por sede; requisitos y procedimiento recibidos de la autoridad, con fuente y fecha. Si se tramita una autorización, conservar la resolución final. [DIRESA Junín](https://www.diresajunin.gob.pe/noticia/id/2026010520_diresa_junn_logr_categorizar_cerca_de_170_establecimientos_de_salud/). |
+| 4 | Confirmar licencia, uso del local, riesgo e ITSE para cada establecimiento. | Joice y Municipalidad de Pilcomayo | Procedimiento municipal aplicable y documentos emitidos que correspondan a la sede y actividad; comprobación del estado y alcance. [Municipalidad de Pilcomayo](https://munipilcomayo.gob.pe/desarrollo-economico-y-gestion-ambiental/). |
+| 5 | Revisar antecedentes y titularidad de ZONTE; decidir qué signo y servicios proteger. | Titular e Indecopi | Resultado de búsqueda con fecha, titular elegido y servicios definidos; si se presenta, número de expediente y resolución cuando se emita. Una solicitud no equivale a una marca concedida. [Indecopi](https://www.gob.pe/institucion/indecopi/pages/333-registrar-la-marca-de-producto-o-servicio-de-tu-negocio-en-indecopi). |
+| 6 | Ordenar procesos clínicos, datos, residuos y reclamos. | Equipo y asesoría correspondiente | Lista de procedimientos revisados, responsables, versiones y evidencias de implementación. Consultar las normas enlazadas en “Operación odontológica”; los formatos por sí solos no acreditan cumplimiento. |
+| 7 | Actualizar web y redes a partir de los datos comprobados. | Joice y Dayko | Lista de textos aprobados por Joice, correspondencia con servicios y profesionales de cada sede, y registro de los cambios publicados. |
+
+**Cómo registrar el avance:** usar “por reunir”, “en revisión”, “consulta enviada” o “cerrado”, con responsable y fecha. Cerrar una tarea requiere revisar su evidencia; una respuesta informal o la sola presentación de una solicitud no acredita una autorización. Si un documento no corresponde al caso, registrar “no aplica” y el motivo confirmado.
+
 
 DIRESA Junín informa que categoriza IPRESS públicas y privadas y mantiene acciones sobre RENIPRESS y cartera de servicios. Se debe confirmar el procedimiento vigente, tasas y documentación con la autoridad antes de presentar el expediente.
 
@@ -83,7 +90,7 @@ Fuentes: [categorización en Junín](https://www.diresajunin.gob.pe/noticia/id/2
 
 ## Ficha por consultorio
 
-Completar en un archivo privado. En este repositorio público guardar únicamente plantillas vacías y conclusiones sin datos sensibles.
+Esta ficha es una plantilla de trabajo. Completar una copia privada con la evidencia de cada sede.
 
 | Dato a revisar | San Martín | Tacna |
 |---|---|---|
@@ -99,11 +106,11 @@ Completar en un archivo privado. En este repositorio público guardar únicament
 | Sedación, cirugía e implantes: alcance real | Pendiente | Pendiente |
 | Historia clínica, consentimientos, residuos y reclamos | Revisar | Revisar |
 
-No se ha consultado un registro individual de ZONTE en RENIPRESS. **Pendiente no significa ausente o irregular.** Utilizar la [consulta oficial de SUSALUD](https://www.gob.pe/institucion/susalud/campa%C3%B1as/95866-consulta-el-renipress) y contrastar denominación, dirección y titular.
+Utilizar la [consulta oficial de SUSALUD](https://www.gob.pe/institucion/susalud/campa%C3%B1as/95866-consulta-el-renipress) y contrastar denominación, dirección y titular.
 
 ## Marca ZONTE
 
-La **clase 44** incluye servicios odontológicos ([Clasificación oficial de Niza 2026, clase 44 — OMPI](https://nclpub.wipo.int/enfr/pdf-download.pdf?dateInForce=20260101&lang=en&tab=class_headings)); es la clase inicial a evaluar para la actividad descrita. Definir con Indecopi el listado preciso de servicios y buscar signos similares antes de pagar. No se ha comprobado todavía la disponibilidad de ZONTE ni un registro existente.
+La **clase 44** incluye servicios odontológicos ([Clasificación oficial de Niza 2026, clase 44 — OMPI](https://nclpub.wipo.int/enfr/pdf-download.pdf?dateInForce=20260101&lang=en&tab=class_headings)); es la clase inicial a evaluar para la actividad descrita. Definir con Indecopi el listado preciso de servicios y buscar signos similares antes de pagar. Registrar el resultado de la búsqueda y la situación del expediente en la ficha privada.
 
 - Confirmar si la titular será Joice o una persona jurídica ya constituida.
 - Evaluar denominación ZONTE y, por separado si corresponde, nombre con logo.
@@ -134,7 +141,7 @@ Estas son tareas de planificación; el alcance y requisitos definitivos deben co
 5. ¿ZONTE ya tiene solicitud o registro de marca?
 6. ¿Quiénes son los propietarios y cuál es el objetivo: ordenar lo existente, cambiar estructura o ampliar?
 
-Estas respuestas deben entregarse en privado; no publicar documentos, identificadores ni información de pacientes en GitHub.
+Anotar las respuestas en la ficha privada y vincularlas con los documentos correspondientes.
 
 ---
 
@@ -217,6 +224,14 @@ No hay un costo total definido hasta completar la ficha por consultorio y obtene
 9. Licencia para riesgo bajo o medio (seleccionar municipalidad): https://www.gob.pe/20844
 10. Licencia para riesgo alto o muy alto (seleccionar municipalidad): https://www.gob.pe/20866
 
+
+## Notas de la revisión de ZONTE
+
+La consulta directa de `zonte.pe` no pudo completarse. Se revisó el [código de la página en dayko-zonte](https://github.com/3bento/dayko-zonte/blob/main/public/index.html); esto describe el contenido del repositorio, sin demostrar que coincida exactamente con el sitio publicado.
+
+No fue posible leer sus publicaciones directamente. Se identificaron los enlaces desde el sitio fuente, sin verificar biografías, actividad reciente ni todas las cuentas existentes.
+
+No se consultó un registro individual de ZONTE en RENIPRESS ni se comprobó su marca en un expediente de Indecopi. La ficha privada permite registrar esas comprobaciones sin confundir lo anunciado con lo acreditado.
 
 ## Alcance y comprobación de las fuentes
 
