@@ -16,14 +16,37 @@ Una ruta para ordenar la empresa, proteger la marca y verificar los requisitos d
 
 ## Siglas utilizadas
 
+<details id="glosario" class="glossary" markdown="1">
+<summary>Ver siglas y definiciones (20)</summary>
+
+Pulsa una sigla del texto para abrir su definición. El botón “Volver al texto” te lleva al punto de lectura.
+
 | Sigla | Significado |
 |---|---|
-| RUC | Registro Único de Contribuyentes |
-| IPRESS | Institución Prestadora de Servicios de Salud |
-| RENIPRESS | Registro Nacional de Instituciones Prestadoras de Servicios de Salud |
-| ITSE | Inspección Técnica de Seguridad en Edificaciones |
-| REMYPE | Registro de la Micro y Pequeña Empresa |
-| DIRESA | Dirección Regional de Salud |
+| <span id="sigla-ruc" tabindex="-1">RUC</span> | Registro Único de Contribuyentes |
+| <span id="sigla-ipress" tabindex="-1">IPRESS</span> | Institución Prestadora de Servicios de Salud |
+| <span id="sigla-renipress" tabindex="-1">RENIPRESS</span> | Registro Nacional de Instituciones Prestadoras de Servicios de Salud |
+| <span id="sigla-itse" tabindex="-1">ITSE</span> | Inspección Técnica de Seguridad en Edificaciones |
+| <span id="sigla-remype" tabindex="-1">REMYPE</span> | Registro de la Micro y Pequeña Empresa |
+| <span id="sigla-diresa" tabindex="-1">DIRESA</span> | Dirección Regional de Salud |
+| <span id="sigla-sunat" tabindex="-1">SUNAT</span> | Superintendencia Nacional de Aduanas y de Administración Tributaria |
+| <span id="sigla-sunarp" tabindex="-1">SUNARP</span> | Superintendencia Nacional de los Registros Públicos |
+| <span id="sigla-susalud" tabindex="-1">SUSALUD</span> | Superintendencia Nacional de Salud |
+| <span id="sigla-ipen" tabindex="-1">IPEN</span> | Instituto Peruano de Energía Nuclear |
+| <span id="sigla-minsa" tabindex="-1">MINSA</span> | Ministerio de Salud |
+| <span id="sigla-ompi" tabindex="-1">OMPI</span> | Organización Mundial de la Propiedad Intelectual |
+| <span id="sigla-nts" tabindex="-1">NTS</span> | Norma Técnica de Salud |
+| <span id="sigla-rm" tabindex="-1">RM</span> | Resolución Ministerial |
+| <span id="sigla-ds" tabindex="-1">DS</span> | Decreto Supremo |
+| <span id="sigla-tupa" tabindex="-1">TUPA</span> | Texto Único de Procedimientos Administrativos |
+| <span id="sigla-eirl" tabindex="-1">EIRL</span> | Empresa Individual de Responsabilidad Limitada |
+| <span id="sigla-sac" tabindex="-1">SAC</span> | Sociedad Anónima Cerrada |
+| <span id="sigla-srl" tabindex="-1">SRL</span> | Sociedad Comercial de Responsabilidad Limitada |
+| <span id="sigla-sacs" tabindex="-1">SACS</span> | Sociedad por Acciones Cerrada Simplificada |
+
+<button class="print glossary-return" type="button" hidden>Volver al texto</button>
+
+</details>
 
 ## ¿Clínica, centro o consultorio odontológico?
 
@@ -60,8 +83,6 @@ Redes identificadas:
 
 - [Instagram: @clinicaodontologicazonte](https://www.instagram.com/clinicaodontologicazonte/)
 - [Facebook: Clínica Odontológica ZONTE](https://www.facebook.com/people/Cl%C3%ADnica-Odontol%C3%B3gica-ZONTE/100076397208073/)
-
-
 
 ## Plan para Joice
 
