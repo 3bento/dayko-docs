@@ -9,19 +9,23 @@ revisions: true
 
 Aquí se reúnen las mejoras identificadas en el contenido y su estado.
 
-**Fecha de revisión:** 1 de octubre de 2026. **Estado:** mejoras pendientes de aplicar a la guía. Esta revisión no acredita ni cuestiona los permisos o registros de ZONTE.
+**Fecha de revisión:** 1 de octubre de 2026. **Estado:** referencias añadidas y cuatro mejoras aplicadas; las restantes siguen pendientes. Esta revisión no acredita ni cuestiona los permisos o registros de ZONTE.
 
-## Mejoras pendientes
+## Seguimiento de mejoras
 
 | Prioridad | Tema | Mejora propuesta | Estado |
 |---|---|---|---|
-| Alta | Nombre comercial | Explicar su diferencia con la marca y la denominación social, y su tratamiento ante Indecopi. | Pendiente |
-| Alta | Reclamos en salud | Añadir la referencia al DS 002-2019-SA y explicar la ruta de consulta con SUSALUD. | Pendiente |
-| Media | Presupuesto | Sustituir “completar el formulario” por “completar la ficha por consultorio y obtener cotizaciones”. | Pendiente |
-| Media | Siglas | Explicar RUC, RENIPRESS, IPRESS, ITSE y REMYPE al primer uso. | Pendiente |
+| Alta | Nombre comercial | Explicar su diferencia con la marca y la denominación social, y su tratamiento ante Indecopi. | Aplicada · 01/10/2026 |
+| Alta | Reclamos en salud | Añadir la referencia al DS 002-2019-SA y explicar la ruta de consulta con SUSALUD. | Aplicada · 01/10/2026 |
+| Media | Presupuesto | Sustituir “completar el formulario” por “completar la ficha por consultorio y obtener cotizaciones”. | Aplicada · 01/10/2026 |
+| Media | Siglas | Explicar RUC, RENIPRESS, IPRESS, ITSE y REMYPE al primer uso. | Aplicada · 01/10/2026 |
 | Media | Advertencias repetidas | Concentrar las limitaciones en una nota inicial y conservar los estados en la ficha. | Pendiente |
 | Media | Detalles técnicos | Llevar las notas sobre GitHub y las limitaciones de investigación al apartado de fuentes. | Pendiente |
 | Media | Plan para Joice | Añadir el documento o evidencia que permite cerrar cada tarea y una primera acción concreta. | Pendiente |
+
+## Referencias junto al contenido
+
+**Aplicada · 01/10/2026:** se añadieron enlaces junto a las afirmaciones, una leyenda de tipos de respaldo y una tabla de alcance. Las fuentes bloqueadas se identifican expresamente. No se certificó una revisión integral de vigencia normativa.
 
 ## Lo que conviene conservar
 
