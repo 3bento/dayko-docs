@@ -47,6 +47,21 @@ Aquí se reúnen las mejoras identificadas en el contenido y su estado.
 
 Las tasas consultadas coinciden con las de la guía: S/ 534,90 por una clase y S/ 401,20 para MYPE que cumplen las condiciones oficiales. Confirmar importe y condiciones antes de pagar.
 
+## Segunda revisión: lectura y navegación
+
+**Aplicada · 01/10/2026.**
+
+| Hallazgo | Ajuste |
+|---|---|
+| La tabla de siglas ocupa espacio al iniciar la lectura. | Glosario cerrado inicialmente, con 20 definiciones y apertura al seguir un enlace. |
+| Había siglas usadas sin definición en el glosario. | Añadidas instituciones, tipos societarios y abreviaturas normativas que aparecen en la guía. |
+| Las siglas en el texto no llevaban a su significado. | Enlaces a la definición y botón para volver al punto de lectura; se conservan los enlaces oficiales existentes. |
+| El índice solo incluía títulos de segundo nivel. | Sumario de títulos de segundo y tercer nivel, con anterior, siguiente y regreso al sumario. |
+| “Volver arriba” apuntaba a un título inexistente en Revisiones. | Enlace al inicio común de ambas páginas. |
+| La impresión podía ocultar las definiciones. | Glosario abierto durante la impresión y restaurado después. |
+
+Esta revisión mejora la lectura y la navegación. No cambia tasas, requisitos legales ni el estado documental de ZONTE.
+
 ## Cómo se actualiza esta página
 
 Una mejora pasa a **Aplicada** cuando el cambio está incorporado a la guía. La verificación de documentos de ZONTE se registra por separado y en privado.
