@@ -1,0 +1,46 @@
+---
+layout: guide
+title: "ZONTE · Revisiones de la guía"
+permalink: /revisiones/
+revisions: true
+---
+
+# Revisiones de la guía
+
+Aquí se reúnen las mejoras identificadas en el contenido y su estado.
+
+**Fecha de revisión:** 1 de octubre de 2026. **Estado:** mejoras pendientes de aplicar a la guía. Esta revisión no acredita ni cuestiona los permisos o registros de ZONTE.
+
+## Mejoras pendientes
+
+| Prioridad | Tema | Mejora propuesta | Estado |
+|---|---|---|---|
+| Alta | Nombre comercial | Explicar su diferencia con la marca y la denominación social, y su tratamiento ante Indecopi. | Pendiente |
+| Alta | Reclamos en salud | Añadir la referencia al DS 002-2019-SA y explicar la ruta de consulta con SUSALUD. | Pendiente |
+| Media | Presupuesto | Sustituir “completar el formulario” por “completar la ficha por consultorio y obtener cotizaciones”. | Pendiente |
+| Media | Siglas | Explicar RUC, RENIPRESS, IPRESS, ITSE y REMYPE al primer uso. | Pendiente |
+| Media | Advertencias repetidas | Concentrar las limitaciones en una nota inicial y conservar los estados en la ficha. | Pendiente |
+| Media | Detalles técnicos | Llevar las notas sobre GitHub y las limitaciones de investigación al apartado de fuentes. | Pendiente |
+| Media | Plan para Joice | Añadir el documento o evidencia que permite cerrar cada tarea y una primera acción concreta. | Pendiente |
+
+## Lo que conviene conservar
+
+- Revisar los documentos existentes antes de iniciar trámites nuevos.
+- Separar marca, titular empresarial y categoría sanitaria.
+- Comprobar cada sede individualmente.
+- No deducir la categoría sanitaria a partir de “clínica” o “consultorio”.
+- Mantener los documentos privados y los datos de pacientes fuera del repositorio público.
+
+## Fuentes de la revisión
+
+- [Nombre comercial — Indecopi](https://www.gob.pe/334-registrar-una-marca-registrar-nombre-comercial-de-tu-negocio-en-indecopi).
+- [DS 002-2019-SA: gestión de reclamos en salud — SUSALUD](https://www.gob.pe/institucion/susalud/normas-legales/853356-002-2019-sa-ds).
+- [Campaña y tasas de registro de marca — Indecopi](https://www.gob.pe/institucion/indecopi/campa%C3%B1as/6164-protege-tu-sueno-registra-tu-marca).
+
+Las tasas consultadas coinciden con las de la guía: S/ 534,90 por una clase y S/ 401,20 para MYPE que cumplen las condiciones oficiales. Confirmar importe y condiciones antes de pagar.
+
+## Cómo se actualiza esta página
+
+Una mejora pasa a **Aplicada** cuando el cambio está incorporado a la guía. La verificación de documentos de ZONTE se registra por separado y en privado.
+
+[Volver a la guía]({{ '/' | relative_url }})
