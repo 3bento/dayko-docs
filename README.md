@@ -272,3 +272,7 @@ No se consultó un registro individual de ZONTE en RENIPRESS ni se comprobó su 
 | Orden del plan y ficha de trabajo | Recomendaciones de esta guía | Propuestas prácticas; no constituyen una secuencia legal obligatoria. |
 
 **Decisiones que necesitan revisión jurídica:** forma empresarial, bases legales para datos de pacientes, consentimientos y transferencias internacionales. Las referencias permiten comprobar el origen de la información; no certifican los registros individuales de ZONTE.
+
+## Licencia
+
+Propiedad de **Dayko**. © 2026 Dayko. Todos los derechos reservados. Ver [LICENSE](LICENSE).
